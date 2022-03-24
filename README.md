@@ -59,6 +59,27 @@
                  
                  
  ![image](https://user-images.githubusercontent.com/97621443/159992822-c51d795d-ce05-476f-90ce-9b6b29a34146.png)
+ 
+ 
+                  3.1/ Partie d'implémentation(JAVAFX):
+
+ 
+ 
+ 
+ 
+![image](https://user-images.githubusercontent.com/97621443/160013759-edf48ca7-71f1-4c8d-99f6-960e46bb5454.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/97621443/160013828-546f201c-8caf-4c10-8ccc-e9616dfe15c4.png)
+
+
+
+
+ ![image](https://user-images.githubusercontent.com/97621443/160013562-9643fb40-e90e-49fa-af2f-7d9b8aa6b70e.png)
+
+
 
               
 
