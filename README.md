@@ -55,6 +55,11 @@
                  
                  
                  3.2/ Test:(Avec Windows Terminal and Telnet):
+                 
+                 
+                 
+ ![image](https://user-images.githubusercontent.com/97621443/159992822-c51d795d-ce05-476f-90ce-9b6b29a34146.png)
+
               
 
 
