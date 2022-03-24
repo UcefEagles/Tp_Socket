@@ -35,6 +35,27 @@
 
               3/ Chat Server App:
               
+              
+              
+                 3.1/ Partie d'implémentation:
+                 
+                 
+                 
+![image](https://user-images.githubusercontent.com/97621443/159991835-d43a75db-5c12-494e-832d-533ad6af87ba.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/97621443/159991951-6f2f0e08-9814-4ae3-b02d-89294b6610c2.png)
+
+                 
+                 
+                 
+                 
+                 
+                 
+                 3.2/ Test:(Avec Windows Terminal and Telnet):
+              
 
 
                      
